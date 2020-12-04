@@ -38,4 +38,4 @@ LPCNet/src/celt_lpc.o
 	patch.diff
 	test.s16
 	test.wav
-
+/checkpoint_LPCTron/*
